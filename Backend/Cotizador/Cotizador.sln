@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cotizador.WebApi", "Cotizador.WebApi\Cotizador.WebApi.csproj", "{72E5AAF2-AED0-4A10-84BA-E6807DC8B66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cotizador.Core", "Cotizador.Core\Cotizador.Core.csproj", "{2877EF16-7244-4506-8C87-3191976AF702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E5AAF2-AED0-4A10-84BA-E6807DC8B66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E5AAF2-AED0-4A10-84BA-E6807DC8B66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E5AAF2-AED0-4A10-84BA-E6807DC8B66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E5AAF2-AED0-4A10-84BA-E6807DC8B66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2877EF16-7244-4506-8C87-3191976AF702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2877EF16-7244-4506-8C87-3191976AF702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2877EF16-7244-4506-8C87-3191976AF702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2877EF16-7244-4506-8C87-3191976AF702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4295A45C-4514-4A8A-8E43-EB814821B969}
+	EndGlobalSection
+EndGlobal
